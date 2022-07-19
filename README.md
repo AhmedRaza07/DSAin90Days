@@ -13,3 +13,5 @@ Day 5:
 Wasn't well and was resting for the day.
 Day 6:
 Started the day with web dev 
+Day 18:
+I wrote all these days but didn't commit changes so they didn't get saved today I started linked list and have completed a total of 39 questions on arrays.
